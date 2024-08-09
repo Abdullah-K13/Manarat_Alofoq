@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "2553924622",
+    "project_id": "manarat-app-ym8lwm",
+    "storage_bucket": "manarat-app-ym8lwm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2553924622:android:6e23883082ac00bee1005f",
+        "android_client_info": {
+          "package_name": "com.mycompany.manaratapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2553924622-h4ov0sskej71gsk0t4vtolse615pjiac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.manaratapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "2553924622-9coemf8q8cdv3sa5qtlp6v0g66n1nisl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1SZvaM6SP2HBx3Mk_FoxuGLGgNtAkx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2553924622-9coemf8q8cdv3sa5qtlp6v0g66n1nisl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2553924622-6bvrs4bdd1hpili6u87l11oikisrlhis.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.manaratapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
